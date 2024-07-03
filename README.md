@@ -1,3 +1,5 @@
+Owner of this repository:- https://github.com/avatorl/Deneb-Vega.git
+
 # Data Visualizations Created Using Vega Visualization Grammar
 
 This repository contains source code and data for data visualizations created by Andrzej Leszkiewicz using Vega visualization grammar. The visualizations presented here can be embedded into any Power BI report using the Deneb custom visual, as well as directly into any web page or app.
